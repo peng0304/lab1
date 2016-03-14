@@ -1,0 +1,15 @@
+Script started on 2016年03月15日 (週二) 00時18分40秒
+]0;F74044119@2015cpp: ~F74044119@2015cpp:~$ s[Kwhoami; pwd
+F74044119
+/home/F74044119
+]0;F74044119@2015cpp: ~F74044119@2015cpp:~$ s[Kgit config -l
+user.name=jerry
+user.email=jerry0418@gmail.com
+]0;F74044119@2015cpp: ~F74044119@2015cpp:~$ s[Ks[Ks[Ks[Kgit clone d[Khttp://d[Kgithub.com/peng0304/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 3, done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+]0;F74044119@2015cpp: ~F74044119@2015cpp:~$ exit
+
+Script done on 2016年03月15日 (週二) 00時19分35秒
